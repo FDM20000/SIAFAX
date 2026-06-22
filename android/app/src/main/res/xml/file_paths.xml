@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Arquivos internos -->
+    <files-path name="internal_files" path="." />
+    <files-path name="internal_movies" path="Movies/" />
+    <files-path name="internal_pictures" path="Pictures/" />
+    <files-path name="internal_documents" path="Documents/" />
+
+    <!-- Cache interno -->
+    <cache-path name="internal_cache" path="." />
+
+    <!-- Diretórios externos privados -->
+    <external-files-path name="external_files" path="." />
+    <external-files-path name="external_movies" path="Movies/" />
+    <external-files-path name="external_pictures" path="Pictures/" />
+    <external-files-path name="external_documents" path="Documents/" />
+
+    <!-- Cache externo -->
+    <external-cache-path name="external_cache" path="." />
+
+</paths>
+
